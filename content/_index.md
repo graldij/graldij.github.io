@@ -26,7 +26,7 @@ title: "Jacopo Graldi"
   <div>
     <!-- Your bio here -->
     <p>
-       <h2>About Me</h2> I will write a short intro about me here soon.
+       <h2>About Me</h2> I will write a short intro about me here soon!
     </p>
   </div>
 </div>
