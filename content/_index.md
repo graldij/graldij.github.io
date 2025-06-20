@@ -32,4 +32,4 @@ title: "Jacopo Graldi"
 </div>
 
 ## Selected Publications
-- I will add my publications here soon.
+- I will add my publications here soon!
