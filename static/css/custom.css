@@ -17,3 +17,69 @@ a.icon-link svg {
   box-shadow: none !important;
   background: none !important;
 }
+
+.profile-float {
+  float: left;
+  width: 300px;
+  max-width: 45vw;
+  margin: 0 2rem 1rem 0;
+  text-align: center;
+}
+.profile-photo {
+  width: 100%;
+  border-radius: 8px;
+  display: block;
+}
+.social-icons {
+  margin-top: 0.8em;
+  text-align: center;
+}
+
+/* Responsive: Stack on mobile */
+@media (max-width: 600px) {
+  .profile-float {
+    float: none;
+    width: 70vw;
+    max-width: 260px;
+    margin: 0 auto 1rem auto;
+  }
+}
+
+.pub-entry {
+  margin-bottom: 2em;
+}
+
+.pub-title {
+  font-weight: 500;
+  font-size: 1.13em;
+  margin-bottom: 0.18em;
+  color: #222;
+}
+
+.pub-authors {
+  color: #444;
+  font-size: 1em;
+  margin-bottom: 0.18em;
+  /* No link, just greyscale text */
+}
+
+.pub-authors u {
+  text-decoration: underline;
+}
+
+.pub-authors sup {
+  font-size: 0.75em;
+  vertical-align: super;
+  font-weight: normal;
+}
+
+.pub-meta {
+  color: #555;
+  font-size: 0.98em;
+  margin-bottom: 0.8em;
+}
+
+.pub-meta span {
+  text-decoration: underline;
+  cursor: default;
+}
