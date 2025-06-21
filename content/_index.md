@@ -29,7 +29,7 @@ title: "Jacopo Graldi"
     I’m an incoming PhD student at the University of Zurich with <a href = "https://koloskova.github.io/" target = "_blank">Prof. Anastasia Koloskova</a>, where I’ll be working towards a scientific understanding of neural networks at the intersection of theory and engineering practice.
     </p>
     <p>
-    I recently completed my Master's in Electrical Engineering and Information Technology at ETH Zurich in the Machine Learning and Signal Processing track. I have extensively collaborated with the <a href = "https://da.inf.ethz.ch/" target = "_blank">Data Analytics Lab of Prof. Hofmann</a>, with whom I worked on <a href = "https://arxiv.org/abs/2310.05719" target = "_blank">Transformer Model Merging</a> , and <a href = "https://openreview.net/forum?id=edhBkkYS8R" target = "_blank">On Scale and Training Regimes in Continual Learning</a>.
+    I recently completed my Master's in Electrical Engineering and Information Technology at ETH Zurich in the Machine Learning and Signal Processing track. I have extensively collaborated with the <a href = "https://da.inf.ethz.ch/" target = "_blank">Data Analytics Lab of Prof. Hofmann</a>, with whom I worked on <a href = "https://arxiv.org/abs/2310.05719" target = "_blank">Transformer Model Merging</a>, and <a href = "https://openreview.net/forum?id=edhBkkYS8R" target = "_blank">On Scale and Training Regimes in Continual Learning</a>.
     </p>
     <p>
     I come from <a href = "https://www.google.com/maps/place/Ticino/@46.2252019,8.7709619,9z/data=!3m1!4b1!4m6!3m5!1s0x478597da2e3ade83:0xc3eda1a3958deb8!8m2!3d46.331734!4d8.8004529!16zL20vMGxmeWQ?hl=en&entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D" target = "_blank">Ticino</a>, in the South of Switzerland. In my free time I enjoy cooking and baking, brewing specialty coffee, and running. I am also a huge fan of pro cycling and an avid listener of the <a href = "https://www.youtube.com/c/LanterneRougeCyclingPodcast" target = "_blank">LRCP cycling podcast</a>.
@@ -38,15 +38,15 @@ title: "Jacopo Graldi"
 
 ## News
 
-- 06/2025: I am excited to share our newest paper on [*The Importance of Being Lazy*](https://openreview.net/forum?id=edhBkkYS8R), which I will present in Vancouver 🇨🇦 for ICML in July!
+- 06/2025: I am excited to share our newest paper on [_The Importance of Being Lazy_](https://openreview.net/forum?id=edhBkkYS8R) in Continual Learning, which I will present in Vancouver 🇨🇦 for ICML in July!
 - 06/2025: I am extremely happy to share that I will be joining the lab of Anastasia Koloskova in Zurich 🇨🇭 as a PhD student in September 🤩🎉!
 - 03/2025: I have officially completed my Master of Science in EEIT from ETH Zurich 👨🏼‍🎓!
 - 12/2024: I will be in Vancouver 🇨🇦 for NeurIPS this week, presenting our newest Workshop [paper](https://openreview.net/forum?id=TYPBYgWyw8)!
 - 05/2024: I am excited to be in Vienna 🇦🇹 for ICLR this week to present our work on [Transformer Fusion](https://arxiv.org/abs/2310.05719)!
 
-
 ## Selected Publications
-- *The Importance of Being Lazy: Scaling Limits of Continual Learning*
+
+- _The Importance of Being Lazy: Scaling Limits of Continual Learning_
   <div class="pub-entry">
     <div class="pub-authors">
       <u><b>J. Graldi</b><sup>*</sup></u>,
@@ -60,7 +60,7 @@ title: "Jacopo Graldi"
       <a href = "https://openreview.net/forum?id=edhBkkYS8R" target = "_blank">Paper</a>
     </div>
   </div>
-- *Exploring the Limits of Feature Learning in Continual Learning*
+- _Exploring the Limits of Feature Learning in Continual Learning_
   <div class="pub-entry">
     <div class="pub-authors">
       <u><b>J. Graldi</b></u>,
@@ -74,7 +74,7 @@ title: "Jacopo Graldi"
       <a href = "https://openreview.net/forum?id=TYPBYgWyw8" target = "_blank">Paper</a>
     </div>
   </div>
-- *Transformer Fusion with Optimal Transport*
+- _Transformer Fusion with Optimal Transport_
   <div class="pub-entry">
     <div class="pub-authors">
       M. Imfeld<sup>*</sup>,
