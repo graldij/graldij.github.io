@@ -19,14 +19,14 @@ title: "Jacopo Graldi"
       <a href="https://linkedin.com/in/jacopo-graldi-811555196/" class="icon-link" target="_blank" title="LinkedIn">
         <svg width="23" height="23" viewBox="0 0 72 72" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M8,72 L64,72 C68.418278,72 72,68.418278 72,64 L72,8 C72,3.581722 68.418278,-8.11624501e-16 64,0 L8,0 C3.581722,8.11624501e-16 -5.41083001e-16,3.581722 0,8 L0,64 C5.41083001e-16,68.418278 3.581722,72 8,72 Z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M62,62 L51.315625,62 L51.315625,43.8021149 C51.315625,38.8127542 49.4197917,36.0245323 45.4707031,36.0245323 C41.1746094,36.0245323 38.9300781,38.9261103 38.9300781,43.8021149 L38.9300781,62 L28.6333333,62 L28.6333333,27.3333333 L38.9300781,27.3333333 L38.9300781,32.0029283 C38.9300781,32.0029283 42.0260417,26.2742151 49.3825521,26.2742151 C56.7356771,26.2742151 62,30.7644705 62,40.051212 L62,62 Z M16.349349,22.7940133 C12.8420573,22.7940133 10,19.9296567 10,16.3970067 C10,12.8643566 12.8420573,10 16.349349,10 C19.8566406,10 22.6970052,12.8643566 22.6970052,16.3970067 C22.6970052,19.9296567 19.8566406,22.7940133 16.349349,22.7940133 Z M11.0325521,62 L21.769401,62 L21.769401,27.3333333 L11.0325521,27.3333333 L11.0325521,62 Z" fill="#FFF"/></svg>
       </a>
-      <a href="mailto:jacopograldi@gmail.com" class="icon-link" target="_blank">
+      <a href="mailto:jacopo.graldi@uzh.ch" class="icon-link" target="_blank">
         <svg width="29" height="29" viewBox="0 10 25 10" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M22,5V9L12,13,2,9V5A1,1,0,0,1,3,4H21A1,1,0,0,1,22,5ZM2,11.154V19a1,1,0,0,0,1,1H21a1,1,0,0,0,1-1V11.154l-10,4Z"/></svg>
       </a>
     </div>
   </div>
   <h2>About Me</h2>
     <p>
-    I’m an incoming PhD student at the University of Zurich with <a href = "https://koloskova.github.io/" target = "_blank">Prof. Anastasia Koloskova</a>, where I’ll be working towards a scientific understanding of neural networks at the intersection of theory and engineering practice.
+    I’m a PhD student at the University of Zurich with <a href = "https://koloskova.github.io/" target = "_blank">Prof. Anastasia Koloskova</a>, where I am working towards a scientific understanding of neural networks at the intersection of theory and engineering practice.
     </p>
     <p>
     I recently completed my Master's in Electrical Engineering and Information Technology at ETH Zurich in the Machine Learning and Signal Processing track. I have extensively collaborated with the <a href = "https://da.inf.ethz.ch/" target = "_blank">Data Analytics Lab of Prof. Hofmann</a>, with whom I worked on <a href = "https://arxiv.org/abs/2310.05719" target = "_blank">Transformer Model Merging</a>, and <a href = "https://openreview.net/forum?id=edhBkkYS8R" target = "_blank">On Scale and Training Regimes in Continual Learning</a>.
@@ -37,7 +37,7 @@ title: "Jacopo Graldi"
 </div>
 
 ## News
-
+- 09/2025: I have officially started my PhD at the Department of Mathematical Modeling and Machine Learning (DM3L) at the University of Zurich! Reach out if you want to collaborate on anything exciting 🤩.
 - 06/2025: I am excited to share our newest paper on [_The Importance of Being Lazy_](https://openreview.net/forum?id=edhBkkYS8R) in Continual Learning, which I will present in Vancouver 🇨🇦 for ICML in July!
 - 06/2025: I am extremely happy to share that I will be joining the lab of Anastasia Koloskova in Zurich 🇨🇭 as a PhD student in September 🤩🎉!
 - 03/2025: I have officially completed my Master of Science in EEIT from ETH Zurich 👨🏼‍🎓!
